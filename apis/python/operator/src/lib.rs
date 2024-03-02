@@ -54,6 +54,7 @@ impl PyEvent {
             Event::Input { .. } => "INPUT",
             Event::InputClosed { .. } => "INPUT_CLOSED",
             Event::Error(_) => "ERROR",
+            Event::Reload { operator_id: _ } => "RELOAD",
             _other => "UNKNOWN",
         }
     }
