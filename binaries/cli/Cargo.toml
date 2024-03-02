@@ -30,7 +30,7 @@ termcolor = "1.1.3"
 uuid = { version = "1.7", features = ["v7", "serde"] }
 inquire = "0.5.2"
 communication-layer-request-reply = { workspace = true }
-notify = "5.1.0"
+notify = "6.1.1"
 ctrlc = "3.2.5"
 tracing = "0.1.36"
 dora-tracing = { workspace = true, optional = true }
