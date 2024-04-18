@@ -20,7 +20,7 @@ pub fn check_dataflow(dataflow: &Descriptor, working_dir: &Path) -> eyre::Result
         tracing::warn!("ignoring deprecated `communication.zenoh` key in dataflow config");
     }
 
-    let nodes = dataflow.resolve_aliases_and_set_defaults();
+    let nodes = dataflow.resolve_aliases_and_set_defaults()?;
     let mut has_python_operator = false;
 
     // check that nodes and operators exist
