@@ -271,7 +271,7 @@ jobs:
           cargo build --all
           dora start dataflow.yml --name ci-rust-test
           sleep 10
-          dora stop --name ci-rust-test
+          dora stop --name ci-rust-test  --grace-duration 5s
           cd ..
 
           # Test Python template Project
@@ -282,7 +282,7 @@ jobs:
           cd test_python_project
           dora start dataflow.yml --name ci-python-test
           sleep 10
-          dora stop --name ci-python-test
+          dora stop --name ci-python-test  --grace-duration 5s
           cd ..
 
           dora destroy
