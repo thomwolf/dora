@@ -27,6 +27,11 @@ void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);
   sync.OnInit();
+
+  pinMode(LED,OUTPUT);
+  pinMode(KEY1, INPUT_PULLUP);
+  pinMode(KEY2, INPUT_PULLUP);
+
 }
 
 void loop() {
@@ -48,13 +53,15 @@ void loop() {
     attempts++;
   }
   Serial.write((uint8_t*) posClean, 6 * sizeof(int16_t));
+  Serial.write(0x1 - digitalRead(KEY1));
+  Serial.write(0x1 - digitalRead(KEY2));
   // for(uint8_t i=1; i<=6;i++){
   //   Serial.print(i);
   //   Serial.print(":");
   //   Serial.print(posClean[i]);
   //   Serial.print("\t");
   // }
-  Serial.print("\n");
+  Serial.print('\n');
 }
 
 int16_t PosConvert(int16_t pos, uint8_t servo_type = SERVO_TYPE_BUS, int16_t middle_pos = 500, bool flip = false, float rate = 1.0, uint16_t offset = 0)
