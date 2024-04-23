@@ -1,0 +1,6 @@
+{
+    "port": "/dev/tty.usbserial-120",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "examples/python-hiwonder-xarm/arduino/Sync/Sync.ino"
+}

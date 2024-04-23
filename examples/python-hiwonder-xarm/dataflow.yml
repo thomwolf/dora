@@ -1,0 +1,15 @@
+nodes:
+  - id: read-data
+    custom:
+      source: /Users/thomwolf/miniconda3/envs/dora/bin/python
+      args: ./node_read.py
+      inputs:
+        tick: dora/timer/millis/1
+      outputs:
+        - positions
+  - id: mujoco
+    custom:
+      source: /Users/thomwolf/miniconda3/envs/dora/bin/mjpython
+      args: ./diffik.py
+      inputs:
+        positions: read-data/positions
