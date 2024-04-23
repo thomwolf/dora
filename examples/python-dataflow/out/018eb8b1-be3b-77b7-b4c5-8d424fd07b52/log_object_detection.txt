@@ -1,0 +1,797 @@
+[object detection] received image input
+
+0: 384x640 (no detections), 41.3ms
+Speed: 8.2ms preprocess, 41.3ms inference, 459.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 (no detections), 41.2ms
+Speed: 7.5ms preprocess, 41.2ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 38.2ms
+Speed: 7.8ms preprocess, 38.2ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.4ms
+Speed: 8.1ms preprocess, 36.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 38.2ms
+Speed: 7.6ms preprocess, 38.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.9ms
+Speed: 7.7ms preprocess, 32.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 dog, 36.4ms
+Speed: 7.9ms preprocess, 36.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 dog, 32.4ms
+Speed: 7.3ms preprocess, 32.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.3ms
+Speed: 7.4ms preprocess, 33.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.8ms
+Speed: 8.9ms preprocess, 31.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.4ms
+Speed: 7.9ms preprocess, 34.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.1ms
+Speed: 8.5ms preprocess, 32.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.5ms
+Speed: 7.2ms preprocess, 32.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.9ms
+Speed: 7.9ms preprocess, 34.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.5ms
+Speed: 7.9ms preprocess, 32.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.2ms
+Speed: 7.2ms preprocess, 33.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.8ms
+Speed: 7.1ms preprocess, 31.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.6ms
+Speed: 7.4ms preprocess, 31.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.7ms
+Speed: 7.2ms preprocess, 33.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.3ms
+Speed: 8.3ms preprocess, 31.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.1ms
+Speed: 7.6ms preprocess, 33.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.9ms
+Speed: 7.7ms preprocess, 34.9ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.8ms
+Speed: 7.4ms preprocess, 36.8ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.5ms
+Speed: 8.1ms preprocess, 35.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.5ms
+Speed: 7.4ms preprocess, 31.5ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.1ms
+Speed: 7.2ms preprocess, 35.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 37.6ms
+Speed: 7.2ms preprocess, 37.6ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 34.0ms
+Speed: 8.0ms preprocess, 34.0ms inference, 1.1ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 34.8ms
+Speed: 7.2ms preprocess, 34.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 33.3ms
+Speed: 7.4ms preprocess, 33.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 35.7ms
+Speed: 7.8ms preprocess, 35.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.9ms
+Speed: 7.5ms preprocess, 35.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.1ms
+Speed: 7.4ms preprocess, 36.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 41.9ms
+Speed: 7.9ms preprocess, 41.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.2ms
+Speed: 7.3ms preprocess, 37.2ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.2ms
+Speed: 8.1ms preprocess, 33.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.3ms
+Speed: 7.8ms preprocess, 35.3ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.2ms
+Speed: 7.2ms preprocess, 35.2ms inference, 1.1ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.8ms
+Speed: 7.9ms preprocess, 33.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.0ms
+Speed: 8.0ms preprocess, 35.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.3ms
+Speed: 7.1ms preprocess, 34.3ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 31.7ms
+Speed: 7.4ms preprocess, 31.7ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.1ms
+Speed: 7.3ms preprocess, 33.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.3ms
+Speed: 7.8ms preprocess, 30.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.5ms
+Speed: 7.9ms preprocess, 32.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.9ms
+Speed: 8.1ms preprocess, 31.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.7ms
+Speed: 7.7ms preprocess, 37.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.2ms
+Speed: 7.0ms preprocess, 37.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.2ms
+Speed: 8.0ms preprocess, 37.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 39.1ms
+Speed: 7.1ms preprocess, 39.1ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 38.0ms
+Speed: 7.8ms preprocess, 38.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.4ms
+Speed: 7.4ms preprocess, 33.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.1ms
+Speed: 7.0ms preprocess, 35.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.1ms
+Speed: 7.5ms preprocess, 30.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.5ms
+Speed: 7.8ms preprocess, 32.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.8ms
+Speed: 8.0ms preprocess, 34.8ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.7ms
+Speed: 7.2ms preprocess, 34.7ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.8ms
+Speed: 7.9ms preprocess, 30.8ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.0ms
+Speed: 8.0ms preprocess, 32.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.5ms
+Speed: 7.2ms preprocess, 33.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 29.6ms
+Speed: 7.1ms preprocess, 29.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.9ms
+Speed: 7.3ms preprocess, 31.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.6ms
+Speed: 7.3ms preprocess, 33.6ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.4ms
+Speed: 7.2ms preprocess, 32.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.7ms
+Speed: 7.3ms preprocess, 35.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.6ms
+Speed: 7.3ms preprocess, 36.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.4ms
+Speed: 7.3ms preprocess, 32.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.0ms
+Speed: 7.3ms preprocess, 36.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.9ms
+Speed: 7.9ms preprocess, 34.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.2ms
+Speed: 7.1ms preprocess, 33.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.3ms
+Speed: 7.3ms preprocess, 34.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.9ms
+Speed: 7.0ms preprocess, 34.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.6ms
+Speed: 8.2ms preprocess, 34.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.4ms
+Speed: 7.3ms preprocess, 34.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 29.6ms
+Speed: 7.9ms preprocess, 29.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.2ms
+Speed: 7.6ms preprocess, 33.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.8ms
+Speed: 7.3ms preprocess, 30.8ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.7ms
+Speed: 7.4ms preprocess, 35.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.0ms
+Speed: 7.2ms preprocess, 34.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 38.4ms
+Speed: 8.0ms preprocess, 38.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.2ms
+Speed: 6.9ms preprocess, 37.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.6ms
+Speed: 7.8ms preprocess, 37.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.0ms
+Speed: 7.0ms preprocess, 37.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 38.7ms
+Speed: 7.9ms preprocess, 38.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.1ms
+Speed: 7.5ms preprocess, 35.1ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 49.8ms
+Speed: 7.9ms preprocess, 49.8ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 39.4ms
+Speed: 7.4ms preprocess, 39.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 31.5ms
+Speed: 7.8ms preprocess, 31.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.4ms
+Speed: 7.1ms preprocess, 33.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.3ms
+Speed: 7.0ms preprocess, 32.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.4ms
+Speed: 7.4ms preprocess, 31.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.1ms
+Speed: 7.3ms preprocess, 31.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.7ms
+Speed: 8.1ms preprocess, 33.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.3ms
+Speed: 7.2ms preprocess, 31.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.5ms
+Speed: 7.0ms preprocess, 33.5ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 bird, 31.8ms
+Speed: 7.7ms preprocess, 31.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 cat, 32.2ms
+Speed: 7.1ms preprocess, 32.2ms inference, 1.0ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.4ms
+Speed: 7.2ms preprocess, 32.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 (no detections), 36.8ms
+Speed: 7.1ms preprocess, 36.8ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.5ms
+Speed: 7.2ms preprocess, 33.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.4ms
+Speed: 7.3ms preprocess, 34.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 (no detections), 33.9ms
+Speed: 7.1ms preprocess, 33.9ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 (no detections), 39.8ms
+Speed: 7.2ms preprocess, 39.8ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 (no detections), 32.6ms
+Speed: 8.0ms preprocess, 32.6ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.3ms
+Speed: 7.1ms preprocess, 36.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.3ms
+Speed: 7.3ms preprocess, 33.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.1ms
+Speed: 7.3ms preprocess, 33.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 28.4ms
+Speed: 7.2ms preprocess, 28.4ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.7ms
+Speed: 7.5ms preprocess, 37.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.2ms
+Speed: 7.1ms preprocess, 34.2ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 (no detections), 30.8ms
+Speed: 7.5ms preprocess, 30.8ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 30.4ms
+Speed: 7.3ms preprocess, 30.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.0ms
+Speed: 7.1ms preprocess, 34.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.5ms
+Speed: 7.3ms preprocess, 33.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 36.4ms
+Speed: 7.3ms preprocess, 36.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.6ms
+Speed: 7.3ms preprocess, 33.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.6ms
+Speed: 7.2ms preprocess, 37.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 32.8ms
+Speed: 7.2ms preprocess, 32.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.4ms
+Speed: 7.4ms preprocess, 36.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 29.4ms
+Speed: 7.4ms preprocess, 29.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 35.3ms
+Speed: 7.4ms preprocess, 35.3ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 30.7ms
+Speed: 7.9ms preprocess, 30.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 30.4ms
+Speed: 7.2ms preprocess, 30.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.0ms
+Speed: 7.0ms preprocess, 32.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 34.6ms
+Speed: 7.9ms preprocess, 34.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 39.1ms
+Speed: 7.1ms preprocess, 39.1ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.7ms
+Speed: 8.1ms preprocess, 34.7ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 (no detections), 35.4ms
+Speed: 7.1ms preprocess, 35.4ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.8ms
+Speed: 7.8ms preprocess, 33.8ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 38.4ms
+Speed: 7.4ms preprocess, 38.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.4ms
+Speed: 8.1ms preprocess, 34.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.7ms
+Speed: 7.2ms preprocess, 35.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.5ms
+Speed: 7.7ms preprocess, 32.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.6ms
+Speed: 7.0ms preprocess, 35.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.9ms
+Speed: 8.1ms preprocess, 33.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 39.2ms
+Speed: 7.1ms preprocess, 39.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.2ms
+Speed: 7.4ms preprocess, 31.2ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.8ms
+Speed: 7.5ms preprocess, 37.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.4ms
+Speed: 7.7ms preprocess, 30.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 3 persons, 40.4ms
+Speed: 7.2ms preprocess, 40.4ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.9ms
+Speed: 8.0ms preprocess, 30.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.4ms
+Speed: 7.1ms preprocess, 36.4ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 31.3ms
+Speed: 7.7ms preprocess, 31.3ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 3 persons, 31.3ms
+Speed: 7.1ms preprocess, 31.3ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 28.6ms
+Speed: 7.4ms preprocess, 28.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.1ms
+Speed: 7.4ms preprocess, 36.1ms inference, 0.9ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.2ms
+Speed: 7.2ms preprocess, 31.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.1ms
+Speed: 7.5ms preprocess, 35.1ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.9ms
+Speed: 7.1ms preprocess, 32.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.7ms
+Speed: 7.3ms preprocess, 37.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 bird, 37.6ms
+Speed: 7.3ms preprocess, 37.6ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.7ms
+Speed: 8.0ms preprocess, 32.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 bird, 32.2ms
+Speed: 7.4ms preprocess, 32.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 airplane, 38.9ms
+Speed: 7.4ms preprocess, 38.9ms inference, 0.7ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 32.2ms
+Speed: 7.0ms preprocess, 32.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 bird, 35.8ms
+Speed: 7.5ms preprocess, 35.8ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 2 birds, 32.5ms
+Speed: 7.0ms preprocess, 32.5ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 bird, 36.9ms
+Speed: 8.6ms preprocess, 36.9ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 bird, 31.3ms
+Speed: 7.5ms preprocess, 31.3ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 bird, 34.4ms
+Speed: 7.4ms preprocess, 34.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 1 cat, 36.7ms
+Speed: 7.2ms preprocess, 36.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 bird, 1 cat, 34.6ms
+Speed: 7.1ms preprocess, 34.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 32.0ms
+Speed: 7.4ms preprocess, 32.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.9ms
+Speed: 7.6ms preprocess, 33.9ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.8ms
+Speed: 7.7ms preprocess, 31.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.8ms
+Speed: 7.2ms preprocess, 34.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.0ms
+Speed: 7.5ms preprocess, 33.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.9ms
+Speed: 7.4ms preprocess, 35.9ms inference, 0.5ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.0ms
+Speed: 7.4ms preprocess, 33.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.0ms
+Speed: 7.1ms preprocess, 35.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.5ms
+Speed: 7.1ms preprocess, 32.5ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.6ms
+Speed: 7.2ms preprocess, 34.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.8ms
+Speed: 7.6ms preprocess, 36.8ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.4ms
+Speed: 7.4ms preprocess, 34.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.3ms
+Speed: 8.4ms preprocess, 37.3ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 3 persons, 34.4ms
+Speed: 7.0ms preprocess, 34.4ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 35.8ms
+Speed: 8.2ms preprocess, 35.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.7ms
+Speed: 7.3ms preprocess, 33.7ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.6ms
+Speed: 8.1ms preprocess, 36.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.0ms
+Speed: 7.0ms preprocess, 33.0ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.0ms
+Speed: 8.5ms preprocess, 35.0ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.4ms
+Speed: 7.2ms preprocess, 34.4ms inference, 0.6ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 37.4ms
+Speed: 7.9ms preprocess, 37.4ms inference, 0.4ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 34.0ms
+Speed: 7.1ms preprocess, 34.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.6ms
+Speed: 8.4ms preprocess, 36.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 35.6ms
+Speed: 7.4ms preprocess, 35.6ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.5ms
+Speed: 8.1ms preprocess, 33.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 36.5ms
+Speed: 7.2ms preprocess, 36.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 35.0ms
+Speed: 8.3ms preprocess, 35.0ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 36.5ms
+Speed: 7.3ms preprocess, 36.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 35.2ms
+Speed: 8.0ms preprocess, 35.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 41.9ms
+Speed: 9.9ms preprocess, 41.9ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.5ms
+Speed: 7.6ms preprocess, 32.5ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 2 persons, 29.8ms
+Speed: 7.3ms preprocess, 29.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 33.1ms
+Speed: 7.4ms preprocess, 33.1ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.2ms
+Speed: 7.4ms preprocess, 30.2ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 32.8ms
+Speed: 7.2ms preprocess, 32.8ms inference, 0.3ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 31.6ms
+Speed: 7.5ms preprocess, 31.6ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received image input
+
+0: 384x640 1 person, 30.0ms
+Speed: 7.3ms preprocess, 30.0ms inference, 0.2ms postprocess per image at shape (1, 3, 384, 640)
+[object detection] received unexpected event: INPUT_CLOSED

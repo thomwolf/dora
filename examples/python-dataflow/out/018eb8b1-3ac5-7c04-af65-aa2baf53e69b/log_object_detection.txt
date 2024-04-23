@@ -1,0 +1,601 @@
+[object detection] received image input
+
+0: 480x640 (no detections), 39.0ms
+Speed: 2.0ms preprocess, 39.0ms inference, 985.6ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.3ms
+Speed: 1.6ms preprocess, 35.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.8ms
+Speed: 1.4ms preprocess, 29.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.7ms
+Speed: 1.4ms preprocess, 29.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.8ms
+Speed: 1.4ms preprocess, 35.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.8ms
+Speed: 1.4ms preprocess, 32.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.8ms
+Speed: 1.5ms preprocess, 29.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.5ms
+Speed: 1.4ms preprocess, 29.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 27.5ms
+Speed: 1.4ms preprocess, 27.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.7ms
+Speed: 1.3ms preprocess, 28.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.5ms
+Speed: 1.5ms preprocess, 29.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.3ms
+Speed: 1.3ms preprocess, 30.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.1ms
+Speed: 1.4ms preprocess, 31.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.1ms
+Speed: 1.4ms preprocess, 33.1ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.0ms
+Speed: 1.4ms preprocess, 31.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.3ms
+Speed: 1.4ms preprocess, 31.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.4ms
+Speed: 1.3ms preprocess, 31.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.7ms
+Speed: 1.4ms preprocess, 28.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.4ms
+Speed: 1.4ms preprocess, 29.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.1ms
+Speed: 1.4ms preprocess, 31.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.6ms
+Speed: 1.4ms preprocess, 29.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.9ms
+Speed: 1.4ms preprocess, 30.9ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.2ms
+Speed: 1.5ms preprocess, 30.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.8ms
+Speed: 1.4ms preprocess, 31.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.6ms
+Speed: 1.4ms preprocess, 30.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.0ms
+Speed: 1.4ms preprocess, 30.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.7ms
+Speed: 1.5ms preprocess, 30.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.6ms
+Speed: 1.4ms preprocess, 29.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.2ms
+Speed: 1.3ms preprocess, 30.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.1ms
+Speed: 1.4ms preprocess, 29.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.2ms
+Speed: 1.6ms preprocess, 29.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.7ms
+Speed: 1.4ms preprocess, 29.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.7ms
+Speed: 1.4ms preprocess, 28.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.7ms
+Speed: 1.3ms preprocess, 29.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.0ms
+Speed: 1.3ms preprocess, 30.0ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.6ms
+Speed: 1.4ms preprocess, 29.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.8ms
+Speed: 1.5ms preprocess, 35.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.7ms
+Speed: 1.6ms preprocess, 34.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.1ms
+Speed: 1.7ms preprocess, 32.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.2ms
+Speed: 1.4ms preprocess, 29.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.8ms
+Speed: 1.3ms preprocess, 35.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.7ms
+Speed: 1.4ms preprocess, 32.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.9ms
+Speed: 1.4ms preprocess, 28.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.1ms
+Speed: 4.2ms preprocess, 32.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.6ms
+Speed: 1.5ms preprocess, 31.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.2ms
+Speed: 1.4ms preprocess, 31.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.0ms
+Speed: 1.5ms preprocess, 28.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.8ms
+Speed: 1.6ms preprocess, 28.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.9ms
+Speed: 1.4ms preprocess, 28.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.3ms
+Speed: 1.4ms preprocess, 32.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.1ms
+Speed: 1.5ms preprocess, 31.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.2ms
+Speed: 1.4ms preprocess, 28.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.0ms
+Speed: 1.5ms preprocess, 29.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.4ms
+Speed: 1.4ms preprocess, 29.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.4ms
+Speed: 1.6ms preprocess, 31.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.1ms
+Speed: 1.4ms preprocess, 33.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.8ms
+Speed: 1.6ms preprocess, 34.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.6ms
+Speed: 1.4ms preprocess, 33.6ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.5ms
+Speed: 1.4ms preprocess, 33.5ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.3ms
+Speed: 1.5ms preprocess, 34.3ms inference, 0.4ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 39.0ms
+Speed: 1.5ms preprocess, 39.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.1ms
+Speed: 1.4ms preprocess, 31.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.1ms
+Speed: 1.4ms preprocess, 33.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.8ms
+Speed: 1.4ms preprocess, 32.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 36.1ms
+Speed: 1.4ms preprocess, 36.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.6ms
+Speed: 1.4ms preprocess, 33.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.9ms
+Speed: 1.3ms preprocess, 33.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.7ms
+Speed: 1.6ms preprocess, 28.7ms inference, 0.6ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.7ms
+Speed: 1.6ms preprocess, 28.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.2ms
+Speed: 1.6ms preprocess, 34.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.1ms
+Speed: 1.4ms preprocess, 29.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 27.8ms
+Speed: 1.4ms preprocess, 27.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.5ms
+Speed: 1.4ms preprocess, 30.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.0ms
+Speed: 1.4ms preprocess, 28.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.4ms
+Speed: 1.4ms preprocess, 28.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.1ms
+Speed: 1.5ms preprocess, 28.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.9ms
+Speed: 1.4ms preprocess, 28.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.0ms
+Speed: 1.4ms preprocess, 30.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.1ms
+Speed: 1.4ms preprocess, 29.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 38.3ms
+Speed: 1.5ms preprocess, 38.3ms inference, 0.4ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.6ms
+Speed: 1.4ms preprocess, 32.6ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.1ms
+Speed: 1.4ms preprocess, 31.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.4ms
+Speed: 1.3ms preprocess, 32.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.4ms
+Speed: 1.4ms preprocess, 29.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.6ms
+Speed: 1.3ms preprocess, 28.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 27.7ms
+Speed: 1.4ms preprocess, 27.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.9ms
+Speed: 1.4ms preprocess, 28.9ms inference, 0.1ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.4ms
+Speed: 1.6ms preprocess, 28.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.9ms
+Speed: 1.4ms preprocess, 29.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.0ms
+Speed: 1.4ms preprocess, 33.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.8ms
+Speed: 1.6ms preprocess, 33.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.7ms
+Speed: 1.4ms preprocess, 31.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.2ms
+Speed: 1.4ms preprocess, 35.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.1ms
+Speed: 1.5ms preprocess, 35.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.4ms
+Speed: 1.6ms preprocess, 34.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.6ms
+Speed: 1.4ms preprocess, 34.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.2ms
+Speed: 1.4ms preprocess, 29.2ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.7ms
+Speed: 1.6ms preprocess, 28.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.4ms
+Speed: 1.3ms preprocess, 29.4ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.5ms
+Speed: 1.4ms preprocess, 29.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.7ms
+Speed: 1.5ms preprocess, 31.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.5ms
+Speed: 1.4ms preprocess, 31.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 37.4ms
+Speed: 1.4ms preprocess, 37.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.5ms
+Speed: 1.4ms preprocess, 29.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.8ms
+Speed: 1.3ms preprocess, 30.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.7ms
+Speed: 1.6ms preprocess, 29.7ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.7ms
+Speed: 1.4ms preprocess, 29.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.2ms
+Speed: 1.3ms preprocess, 33.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 38.8ms
+Speed: 1.5ms preprocess, 38.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 36.0ms
+Speed: 1.4ms preprocess, 36.0ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.9ms
+Speed: 1.4ms preprocess, 33.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.5ms
+Speed: 1.5ms preprocess, 33.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.0ms
+Speed: 1.4ms preprocess, 30.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.2ms
+Speed: 1.4ms preprocess, 29.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.4ms
+Speed: 1.3ms preprocess, 28.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.0ms
+Speed: 1.4ms preprocess, 30.0ms inference, 0.4ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.1ms
+Speed: 1.4ms preprocess, 32.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.2ms
+Speed: 1.4ms preprocess, 31.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.3ms
+Speed: 1.4ms preprocess, 29.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.8ms
+Speed: 1.4ms preprocess, 28.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 39.3ms
+Speed: 1.6ms preprocess, 39.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.8ms
+Speed: 1.5ms preprocess, 35.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.1ms
+Speed: 1.4ms preprocess, 29.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.7ms
+Speed: 1.4ms preprocess, 29.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 31.4ms
+Speed: 1.4ms preprocess, 31.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.3ms
+Speed: 1.4ms preprocess, 30.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.4ms
+Speed: 1.4ms preprocess, 30.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.6ms
+Speed: 1.4ms preprocess, 32.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.4ms
+Speed: 1.3ms preprocess, 33.4ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.5ms
+Speed: 1.5ms preprocess, 34.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 35.3ms
+Speed: 1.4ms preprocess, 35.3ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 34.8ms
+Speed: 1.4ms preprocess, 34.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 32.8ms
+Speed: 1.4ms preprocess, 32.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.9ms
+Speed: 1.4ms preprocess, 30.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.0ms
+Speed: 1.6ms preprocess, 29.0ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.1ms
+Speed: 1.4ms preprocess, 30.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.7ms
+Speed: 1.7ms preprocess, 28.7ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.3ms
+Speed: 1.4ms preprocess, 30.3ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 33.9ms
+Speed: 1.4ms preprocess, 33.9ms inference, 0.6ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.9ms
+Speed: 1.4ms preprocess, 29.9ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 38.8ms
+Speed: 1.5ms preprocess, 38.8ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.0ms
+Speed: 1.4ms preprocess, 30.0ms inference, 0.3ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.1ms
+Speed: 1.6ms preprocess, 29.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.5ms
+Speed: 1.6ms preprocess, 28.5ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 28.1ms
+Speed: 1.7ms preprocess, 28.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 30.1ms
+Speed: 1.4ms preprocess, 30.1ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.6ms
+Speed: 1.4ms preprocess, 29.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.6ms
+Speed: 1.4ms preprocess, 29.6ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.8ms
+Speed: 1.6ms preprocess, 29.8ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received image input
+
+0: 480x640 (no detections), 29.2ms
+Speed: 1.7ms preprocess, 29.2ms inference, 0.2ms postprocess per image at shape (1, 3, 480, 640)
+[object detection] received unexpected event: INPUT_CLOSED
