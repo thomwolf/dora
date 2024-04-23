@@ -18,7 +18,7 @@
 #define   SERVO_TYPE_PWM      0
 #define   SERVO_TYPE_BUS      1
 
-#define MAX_ATTEMPTS 10
+#define MAX_ATTEMPTS 20
 
 SoftwareSerial ServoSerial(SERVO_SERIAL_RX, SERVO_SERIAL_TX);
 HWSerialModuleControl sync(ServoSerial,SERVO_SERIAL_RX_CON,SERVO_SERIAL_TX_CON,1);
@@ -43,7 +43,7 @@ void loop() {
     }
     ok = true;
     for (uint8_t i = 0; i < 6; i++)
-      if (posClean[i] == -1)
+      if (posClean[i] < 0)
         ok = false;
     attempts++;
   }

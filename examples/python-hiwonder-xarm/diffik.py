@@ -101,21 +101,20 @@ def main() -> None:
         # Toggle site frame visualization.
         viewer.opt.frame = mujoco.mjtFrame.mjFRAME_SITE
 
+        value = 0.0
         while viewer.is_running():
-            dora_event = dora_node.next() if dora_node else None
+            dora_event = dora_node.next(timeout=0.001) if dora_node else None
 
             step_start = time.time()
 
             # Set the target position of the end-effector site.
-            k = 0.0
             if dora_event and dora_event["type"] == "INPUT":
                 pos = dora_event["value"].to_numpy()
-                value = pos[0]
-                k -= float(value)/1000
-                print(f"value: {value} and k {k}", flush=True)
+                if pos[0] > 0.0:
+                    value = pos[0]/2 - 0.25
+                print(f"value: {value}", flush=True)
             
-            circle_pos = circle(data.time, 0.1, 0.5, k, 0.5)
-            print(f"circle_pos: {circle_pos}", flush=True)
+            circle_pos = circle(data.time, 0.1, 0.25, value, 0.5)
             data.mocap_pos[mocap_id, 0:2] = circle_pos
 
             # Position error.
